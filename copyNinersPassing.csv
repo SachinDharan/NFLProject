@@ -1,0 +1,77 @@
+,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W/L
+0,Patrick Mahomes,KAN,25,34,423,19,54.3,265,7.8,229,9.2,6.7,194,7.8,1,3.1%,5,15.6%,1,9,3,1,5,14.3%,0,,L
+1,Chad Henne,KAN,0,2,0,,,-4,-2.0,0,,0.0,0,,1,50.0%,0,0.0%,0,0,0,0,0,0.0%,0,,L
+2,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,L
+3,Jimmy Garoppolo,SFO,25,37,303,14,33.3,248,6.7,141,5.6,3.8,162,6.5,0,0.0%,6,16.2%,5,12,1,2,8,19.0%,0,,L
+4,Brock Purdy,SFO,4,9,66,4,44.4,97,10.8,56,14.0,6.2,10,2.5,1,11.1%,3,33.3%,0,2,0,0,0,0.0%,1,1.0,L
+0,Dak Prescott,DAL,23,37,206,9,23.7,303,8.2,123,5.3,3.3,83,3.6,4,10.8%,6,16.2%,1,5,0,3,4,10.0%,2,7.5,W
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+2,Brock Purdy,SFO,19,29,214,11,35.5,218,7.5,131,6.9,4.5,83,4.4,0,0.0%,5,19.2%,2,6,0,2,4,11.8%,3,2.7,W
+0,Brock Purdy,SFO,22,35,284,15,42.9,270,7.7,124,5.6,3.5,160,7.3,4,12.1%,3,9.1%,0,11,0,3,3,8.6%,0,,W
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+2,Jarrett Stidham,LVR,23,34,365,15,44.1,344,10.1,223,9.7,6.6,142,6.2,2,6.3%,5,15.6%,0,7,2,9,11,28.9%,4,7.3,W
+0,Matthew Stafford,LAR,32,48,254,16,29.1,244,5.1,115,3.6,2.4,139,4.3,2,4.2%,9,18.8%,7,19,5,5,17,30.4%,1,4.0,W
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+2,Jimmy Garoppolo,SFO,16,27,239,9,33.3,151,5.6,44,2.8,1.6,195,12.2,2,8.0%,4,16.0%,0,12,1,1,2,7.1%,1,3.0,W
+0,Geno Smith,SEA,24,30,197,10,31.3,162,5.4,113,4.7,3.8,84,3.5,0,0.0%,2,6.9%,2,3,5,7,14,42.4%,1,3.0,W
+1,DeeJay Dallas,SEA,0,1,0,,,10,10.0,0,,0.0,0,,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,,W
+2,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+3,Jimmy Garoppolo,SFO,13,21,154,7,31.8,174,8.3,67,5.2,3.2,87,6.7,2,9.5%,3,14.3%,1,5,1,2,4,18.2%,0,,W
+4,Trey Lance,SFO,2,3,30,1,33.3,6,2.0,7,3.5,2.3,23,11.5,0,0.0%,1,33.3%,0,3,0,1,1,33.3%,0,,W
+0,Trey Lance,SFO,13,28,164,5,16.7,201,7.2,107,8.2,3.8,57,4.4,3,11.1%,9,33.3%,2,1,4,1,7,20.6%,4,4.3,L
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,L
+2,Justin Fields,CHI,8,17,121,4,21.1,162,9.5,54,6.8,3.2,67,8.4,0,0.0%,7,41.2%,2,1,3,1,6,27.3%,3,5.3,L
+0,Jimmy Garoppolo,SFO,21,25,235,11,39.3,162,6.5,104,5.0,4.2,131,6.2,0,0.0%,0,0.0%,3,7,2,0,5,17.9%,0,,W
+1,Christian McCaffrey,SFO,1,1,34,1,100.0,31,31.0,31,31.0,31.0,3,3.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,W
+2,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+3,Matthew Stafford,LAR,22,33,187,11,31.4,138,4.2,88,4.0,2.7,99,4.5,1,3.2%,5,16.1%,2,9,3,0,5,13.9%,1,1.0,W
+0,Tom Brady,TAM,34,55,253,14,25.5,355,6.5,145,4.3,2.6,108,3.2,1,2.0%,13,25.5%,0,9,1,7,8,14.3%,1,1.0,W
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+2,Brock Purdy,SFO,16,21,185,8,38.1,110,5.2,113,7.1,5.4,72,4.5,0,0.0%,3,15.0%,0,7,0,4,4,18.2%,1,2.0,W
+3,Josh Johnson,SFO,1,2,10,1,50.0,2,1.0,6,6.0,3.0,4,4.0,0,0.0%,0,0.0%,0,2,0,0,0,0.0%,0,,W
+0,David Blough,ARI,14,18,180,5,23.8,103,5.7,37,2.6,2.1,143,10.2,1,5.6%,1,5.6%,3,6,0,2,5,23.8%,0,,W
+1,Trace McSorley,ARI,6,9,29,1,11.1,77,8.6,19,3.2,2.1,10,1.7,0,0.0%,1,11.1%,0,2,1,0,1,10.0%,1,9.0,W
+2,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+3,Brock Purdy,SFO,15,20,178,10,41.7,107,5.4,71,4.7,3.6,107,7.1,3,15.0%,0,0.0%,4,10,1,1,6,23.1%,2,7.5,W
+0,Jimmy Garoppolo,SFO,20,29,228,13,44.8,176,6.1,76,3.8,2.6,152,7.6,1,3.4%,4,13.8%,0,8,1,4,5,17.2%,0,,W
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+2,Colt McCoy,ARI,24,34,218,8,21.6,167,4.9,95,4.0,2.8,123,5.1,3,9.1%,4,12.1%,3,5,1,5,9,23.1%,2,3.5,W
+3,Trace McSorley,ARI,6,10,59,4,40.0,87,8.7,49,8.2,4.9,10,1.7,0,0.0%,2,22.2%,0,3,2,0,2,20.0%,0,,W
+0,Andy Dalton,NOR,18,29,204,8,26.7,216,7.4,112,6.2,3.9,92,5.1,0,0.0%,6,20.7%,1,7,0,3,4,11.8%,4,5.3,W
+1,Taysom Hill,NOR,0,1,0,,,30,30.0,0,,0.0,0,,1,100.0%,0,0.0%,0,0,0,1,1,100.0%,0,,W
+2,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+3,Jimmy Garoppolo,SFO,26,37,222,12,31.6,195,5.3,99,3.8,2.7,123,4.7,1,2.7%,5,13.5%,1,11,0,5,6,15.8%,0,,W
+0,Brock Purdy,SFO,17,26,217,8,29.6,152,5.8,83,4.9,3.2,134,7.9,1,3.8%,5,19.2%,1,2,1,2,4,14.3%,1,1.0,W
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+2,Geno Smith,SEA,31,44,238,12,25.5,179,4.1,128,4.1,2.9,110,3.5,1,2.4%,2,4.9%,3,11,2,6,11,22.9%,1,18.0,W
+0,Josh Johnson,SFO,7,13,74,3,20.0,67,5.2,22,3.1,1.7,52,7.4,1,9.1%,2,18.2%,2,4,2,4,8,53.3%,0,,L
+1,Brock Purdy,SFO,4,4,23,1,20.0,9,2.3,9,2.3,2.3,14,3.5,0,0.0%,0,0.0%,1,2,0,0,1,20.0%,0,,L
+2,Christian McCaffrey,SFO,0,1,0,0,0.0,39,39.0,0,,0.0,0,,0,0.0%,0,0.0%,0,1,0,1,1,100.0%,0,,L
+3,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,L
+4,Jalen Hurts,PHI,15,25,121,6,23.1,243,9.7,71,4.7,2.8,50,3.3,1,4.2%,4,16.7%,1,5,2,2,5,18.5%,1,7.0,L
+0,Justin Herbert,LAC,21,35,196,7,18.9,216,6.2,103,4.9,2.9,93,4.4,3,9.4%,3,9.4%,2,6,0,6,8,20.0%,3,6.0,W
+1,Chase Daniel,LAC,0,2,0,,,-10,-5.0,0,,0.0,0,,1,50.0%,1,50.0%,1,0,0,1,2,66.7%,0,,W
+2,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+3,Jimmy Garoppolo,SFO,19,28,240,10,34.5,175,6.3,102,5.4,3.6,138,7.3,1,3.6%,7,25.0%,1,3,1,0,2,6.7%,1,2.0,W
+0,Geno Smith,SEA,25,35,253,14,36.8,326,9.3,176,7.0,5.0,77,3.1,1,2.9%,6,17.6%,3,6,0,0,3,7.3%,3,9.7,W
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+2,Brock Purdy,SFO,18,30,332,15,48.4,378,12.6,147,8.2,4.9,185,10.3,1,3.7%,4,14.8%,1,5,0,2,3,9.4%,1,13.0,W
+0,Jimmy Garoppolo,SFO,18,30,253,12,37.5,235,7.8,110,6.1,3.7,143,7.9,7,23.3%,2,6.7%,2,12,1,3,6,18.8%,0,,W
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+2,Baker Mayfield,CAR,20,36,215,7,17.5,271,7.5,106,5.3,2.9,109,5.5,2,5.9%,5,14.7%,4,15,3,2,9,22.5%,0,,W
+3,P.J. Walker,CAR,5,6,60,3,37.5,76,12.7,46,9.2,7.7,14,2.8,0,0.0%,1,16.7%,2,3,0,0,2,25.0%,0,,W
+0,Tua Tagovailoa,MIA,18,33,295,11,30.6,371,11.2,175,9.7,5.3,120,6.7,4,12.1%,6,18.2%,3,4,0,3,6,16.7%,0,,W
+1,Skylar Thompson,MIA,0,1,0,,,22,22.0,0,,0.0,0,,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,W
+2,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+3,Brock Purdy,SFO,25,37,210,13,32.5,200,5.4,92,3.7,2.5,118,4.7,2,5.6%,5,13.9%,3,12,2,4,9,22.5%,0,,W
+4,Jimmy Garoppolo,SFO,2,4,56,2,40.0,44,11.0,34,17.0,8.5,22,11.0,2,50.0%,0,0.0%,1,1,0,0,1,20.0%,0,,W
+0,Taylor Heinicke,WAS,13,18,166,10,50.0,195,10.8,131,10.1,7.3,35,2.7,1,5.6%,3,16.7%,2,3,1,2,5,25.0%,0,,W
+1,Carson Wentz,WAS,12,16,123,8,50.0,86,5.4,57,4.8,3.6,66,5.5,1,6.3%,1,6.3%,0,7,0,3,3,18.8%,0,,W
+2,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,W
+3,Brock Purdy,SFO,15,22,234,8,32.0,183,8.3,129,8.6,5.9,105,7.0,2,9.5%,1,4.8%,3,10,1,1,5,19.2%,1,6.0,W
+0,Jimmy Garoppolo,SFO,18,29,211,9,27.3,242,8.3,129,7.2,4.4,82,4.6,2,6.9%,5,17.2%,4,11,1,3,8,24.2%,0,,L
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,L
+2,Russell Wilson,DEN,20,33,184,8,21.6,246,7.5,95,4.8,2.9,89,4.5,3,9.4%,5,15.6%,4,8,5,5,14,35.0%,3,6.7,L
+0,Jimmy Garoppolo,SFO,29,41,296,15,36.6,313,7.6,84,2.9,2.0,212,7.3,3,7.3%,3,7.3%,0,5,0,4,4,9.5%,1,6.0,L
+1,Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,L
+2,Marcus Mariota,ATL,13,14,129,7,43.8,77,5.5,72,5.5,5.1,57,4.4,0,0.0%,1,7.1%,2,2,0,0,2,11.8%,1,15.0,L

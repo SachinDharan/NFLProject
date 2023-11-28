@@ -1,0 +1,254 @@
+,W/L,Player,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Sk,Prss,Comb,MTkl,MTkl%
+0,W,Juan Thornhill,>avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+1,W,Willie Gay Jr.,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+2,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+3,W,Jaylen Watson,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+4,W,Justin Reid,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+5,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+6,W,Joshua Williams,>avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,>avgTD,<avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+7,W,Chris Lammons,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+8,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+9,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+10,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+11,W,Malik Herring,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+12,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+13,W,Taylor Stallworth,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+14,W,James Winchester,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+15,W,Dicaprio Bootle,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+16,W,Darius Harris,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+17,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+47,W,Joshua Williams,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+48,W,L'Jarius Sneed,>avgInt,>avgTgt,>avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+49,W,Nick Bolton,>avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+50,W,Willie Gay Jr.,<avgInt,<avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+51,W,Trent McDuffie,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+52,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+53,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+54,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+55,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+56,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+57,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+58,W,Bryan Cook,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+59,L,Rashad Fenton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+60,L,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+61,L,Jaylen Watson,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+62,L,Juan Thornhill,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+63,L,Darius Harris,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,<avgMTkl%
+64,L,Nick Bolton,<avgInt,<avgTgt,>avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+65,L,Frank Clark,<avgInt,<avgTgt,>avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+66,L,Justin Reid,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+67,L,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+68,L,Bryan Cook,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+69,L,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+70,L,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+71,L,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+72,L,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+73,L,Derrick Nnadi,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+106,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+107,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+108,W,Jaylen Watson,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+109,W,Darius Harris,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+110,W,Rashad Fenton,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+111,W,Justin Reid,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+112,W,Bryan Cook,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+113,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+114,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+115,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+116,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+117,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+118,W,Juan Thornhill,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+119,W,Derrick Nnadi,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+120,W,Deon Bush,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+121,W,Joshua Williams,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+138,L,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+139,L,Jaylen Watson,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+140,L,Joshua Williams,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+141,L,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,>avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+142,L,Juan Thornhill,<avgInt,<avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+143,L,Justin Reid,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+144,L,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+145,L,Darius Harris,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+146,L,Leo Chenal,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+147,L,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+148,L,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+149,L,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+150,L,Creed Humphrey,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+151,L,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+152,L,Deon Bush,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+167,W,Willie Gay Jr.,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+168,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+169,W,Jaylen Watson,>avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+170,W,Rashad Fenton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+171,W,Justin Reid,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+172,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+173,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,>avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+174,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+175,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+176,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+177,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+178,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+179,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+180,W,Bryan Cook,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+181,W,Willie Gay Jr.,>avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+182,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+183,W,Juan Thornhill,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+184,W,Jaylen Watson,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+185,W,Joshua Williams,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+186,W,L'Jarius Sneed,>avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+187,W,Trent McDuffie,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+188,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+189,W,Justin Reid,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+190,W,Bryan Cook,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+191,W,Brandon Williams,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+192,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+193,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+194,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+195,W,Darius Harris,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+196,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+225,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+226,W,Jaylen Watson,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+227,W,Trent McDuffie,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,>avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+228,W,L'Jarius Sneed,>avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+229,W,Juan Thornhill,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+230,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,>avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+231,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+232,W,Justin Reid,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+233,W,Willie Gay Jr.,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+234,W,Bryan Cook,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+235,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+236,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+237,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+238,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+239,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+240,W,Joshua Williams,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+256,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,<avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,<avgMTkl%
+257,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+258,W,Justin Reid,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,<avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+259,W,Willie Gay Jr.,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+260,W,Bryan Cook,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+261,W,Jaylen Watson,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+262,W,Joshua Williams,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+263,W,Trent McDuffie,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+264,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+265,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+266,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+267,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+268,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+269,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+270,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+271,W,Justin Reid,<avgInt,>avgTgt,>avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+272,W,Willie Gay Jr.,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,<avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+273,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+274,W,Juan Thornhill,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+275,W,Trent McDuffie,<avgInt,<avgTgt,<avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+276,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+277,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+278,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+279,W,Joshua Williams,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+280,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+281,W,Jaylen Watson,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+294,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,>avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+295,W,Rashad Fenton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+296,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,>avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+297,W,Willie Gay Jr.,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+298,W,Justin Reid,<avgInt,<avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+299,W,Trent McDuffie,<avgInt,<avgTgt,<avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+300,W,Elijah Lee,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+301,W,Derrick Nnadi,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+302,W,Chris Lammons,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+303,W,Darius Harris,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+304,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+305,W,Juan Thornhill,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+306,W,Jaylen Watson,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+307,W,Bryan Cook,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+308,W,Joshua Williams,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+309,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,>avgHrry,>avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+310,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+311,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+312,W,Tershawn Wharton,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,>avgQBKD,>avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+313,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+314,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+315,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+335,L,Joshua Williams,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+336,L,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,<avgMTkl%
+337,L,Juan Thornhill,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+338,L,Trent McDuffie,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+339,L,Darius Harris,<avgInt,<avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+340,L,L'Jarius Sneed,<avgInt,<avgTgt,>avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+341,L,Justin Reid,<avgInt,<avgTgt,<avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+342,L,Michael Danna,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+343,L,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+344,L,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+345,L,Willie Gay Jr.,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+346,L,Creed Humphrey,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+361,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+362,W,Trent McDuffie,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+363,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+364,W,Willie Gay Jr.,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+365,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+366,W,Jaylen Watson,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+367,W,Juan Thornhill,>avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+368,W,Darius Harris,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+369,W,Bryan Cook,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+370,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+371,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+372,W,Justin Reid,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,>avgBltz,>avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+373,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+374,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+375,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+376,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+377,W,Derrick Nnadi,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+414,W,Juan Thornhill,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+415,W,Joshua Williams,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+416,W,Justin Reid,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+417,W,Willie Gay Jr.,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+418,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+419,W,Nick Bolton,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+420,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+421,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+422,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+423,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+424,W,L'Jarius Sneed,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+425,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+426,W,Derrick Nnadi,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+427,W,Trent McDuffie,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+428,W,Jaylen Watson,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+429,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,>avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+430,W,Jaylen Watson,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+431,W,Justin Reid,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+432,W,Rashad Fenton,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+433,W,Bryan Cook,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,>avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+434,W,Tershawn Wharton,<avgInt,<avgTgt,>avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+435,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+436,W,Juan Thornhill,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+437,W,Darius Harris,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+438,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+439,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+440,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+441,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+472,W,L'Jarius Sneed,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,>avgBltz,>avgHrry,<avgQBKD,<avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+473,W,Trent McDuffie,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+474,W,Justin Reid,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+475,W,Jaylen Watson,<avgInt,<avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+476,W,Juan Thornhill,<avgInt,>avgTgt,>avgCmp,<avgCmp%,>avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+477,W,Joshua Williams,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+478,W,Nick Bolton,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+479,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+480,W,Willie Gay Jr.,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+481,W,Carlos Dunlap,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+482,W,Khalen Saunders,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+483,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+484,W,Willie Gay Jr.,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,<avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+485,W,Nick Bolton,>avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+486,W,Joshua Williams,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+487,W,Jaylen Watson,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,>avgMTkl,>avgMTkl%
+488,W,Justin Reid,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,<avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+489,W,Bryan Cook,<avgInt,>avgTgt,>avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+490,W,Trent McDuffie,<avgInt,>avgTgt,>avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,>avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,>avgMTkl,>avgMTkl%
+491,W,Chris Jones,<avgInt,<avgTgt,<avgCmp,>avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,>avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+492,W,Juan Thornhill,<avgInt,<avgTgt,<avgCmp,>avgCmp%,>avgYds,>avgYds/Cmp,>avgYds/Tgt,>avgTD,>avgRat,>avgDADOT,>avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+493,W,L'Jarius Sneed,<avgInt,>avgTgt,<avgCmp,<avgCmp%,<avgYds,>avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,>avgDADOT,>avgAir,<avgYAC,>avgBltz,<avgHrry,<avgQBKD,<avgSk,<avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+494,W,Michael Danna,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,<avgQBKD,>avgSk,>avgPrss,>avgComb,<avgMTkl,<avgMTkl%
+495,W,George Karlaftis III,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+496,W,Frank Clark,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
+497,W,Leo Chenal,<avgInt,<avgTgt,<avgCmp,<avgCmp%,<avgYds,<avgYds/Cmp,<avgYds/Tgt,<avgTD,<avgRat,<avgDADOT,<avgAir,<avgYAC,<avgBltz,<avgHrry,>avgQBKD,<avgSk,>avgPrss,<avgComb,<avgMTkl,<avgMTkl%
